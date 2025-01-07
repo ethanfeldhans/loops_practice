@@ -1,3 +1,4 @@
+# Given the array numbers = [5,2,6,1], find the sum of all the numbers in that array
 numbers = [5, 2, 6, 1]
 
 sum = 0
@@ -9,4 +10,3 @@ while index < numbers.length
 end
 
 puts sum
-
